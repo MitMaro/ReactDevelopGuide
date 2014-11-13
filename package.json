@@ -1,0 +1,27 @@
+{
+  "name": "ReactDeveloperGuide",
+  "version": "1.0.0",
+  "description": "A guide for developing React components",
+  "dependencies": {
+    "doctoc": "^0.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo 'No tests for this project' && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MitMaro/ReactDevelopGuide.git"
+  },
+  "keywords": [
+    "style guide"
+    "react",
+    "guide"
+  ],
+  "author": "Tim Oram <mitmaro@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MitMaro/ReactDevelopGuide/issues"
+  },
+  "homepage": "https://github.com/MitMaro/ReactDevelopGuide"
+}
